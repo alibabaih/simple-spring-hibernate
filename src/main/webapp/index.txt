@@ -1,0 +1,6 @@
+folder in which placed files web part of the application:
+— deployment descriptor of the application web.xml;
+— xml-files with settings of the Spring framework;
+— jsp pages.
+
+Attention: pictures, css, js-scripts placed in the resources folder.

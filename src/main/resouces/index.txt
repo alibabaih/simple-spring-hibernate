@@ -1,0 +1,1 @@
+All others files (resources), which needed for work: for example logger setting file log4j.xml, folder META-INF.

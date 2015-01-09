@@ -1,0 +1,2 @@
+service layer application, where described all functionality our application
+and this package contains few practise realization these interfaces

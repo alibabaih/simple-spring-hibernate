@@ -1,0 +1,3 @@
+domain layer
+here placed POJO-classes (plain old java objects), described objects
+here it is class Contact

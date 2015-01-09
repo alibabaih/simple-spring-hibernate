@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="net:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="net.war">
+      <element id="artifact" artifact-name="net:war exploded" />
+    </root>
+  </artifact>
+</component>
